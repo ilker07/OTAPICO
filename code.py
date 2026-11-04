@@ -17,7 +17,7 @@ MQTT_USER   = "ilker"
 MQTT_PASS   = "Deneme"
 CLIENT_ID   = "anka_sim_" + DEVICE_ID
 
-OTA_URL           = "https://raw.githubusercontent.com/KULLANICI/REPO/main/code.py"
+OTA_URL           = "https://raw.githubusercontent.com/ilker07/OTAPICO/refs/heads/master/code.py"
 TOPIC_OTA_COMMAND = "otacommand" + DEVICE_ID
 TOPIC_OTA_STATUS  = "otastatus" + DEVICE_ID
 
