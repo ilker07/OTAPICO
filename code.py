@@ -5,7 +5,7 @@ import busio
 import digitalio
 import microcontroller
 
-VERSION = "1.0"   # OTA sonrasi degisti mi diye bakmak icin: guncelleyince 2.0 yap
+VERSION = "2.0"   # OTA sonrasi degisti mi diye bakmak icin: guncelleyince 2.0 yap
 
 # ---------- AYARLAR ----------
 DEVICE_ID   = "1"
